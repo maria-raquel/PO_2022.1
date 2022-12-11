@@ -1,7 +1,3 @@
-# Branch_and_Bound
+# Pesquisa Operacional
 
-An implementation of the branch and bound algorithm, done as the final project in our Operations Research class, taught by professor Teobaldo Bulhões, 2022.1.
-
-João Antonio Honorato: 20210026680
-
-Maria Raquel Martinez: 20200025900
+Um repositório para praticar e estudar para a disciplina de Pesquisa Operacional, ensinada pelo professor Teobaldo Bulhoes, no período de 2022.1
